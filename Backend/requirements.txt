@@ -1,0 +1,16 @@
+deep_translator
+SpeechRecognition
+flask
+flask-cors
+pytube
+openai-whisper
+srt
+python-docx
+pyPDF2
+pytesseract
+googletrans
+reportlab
+gtts
+pydub
+yt_dlp
+requests

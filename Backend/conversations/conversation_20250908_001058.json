@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "source_language": "en",
+    "target_language": "ar",
+    "saved_at": "2025-09-08T00:10:58.980740"
+  },
+  "conversation": [
+    {
+      "id": 1757272252517,
+      "text": "how are you ??",
+      "sender": "user",
+      "language": "en",
+      "timestamp": "2025-09-07T19:10:52.517Z",
+      "status": "sent"
+    },
+    {
+      "id": 1757272254306,
+      "text": "كيف حالك ؟؟",
+      "sender": "bot",
+      "language": "ar",
+      "timestamp": "2025-09-07T19:10:54.305Z",
+      "status": "received"
+    }
+  ]
+}
