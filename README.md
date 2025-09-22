@@ -8,7 +8,7 @@
 ![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?logo=vite&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6B35?logo=vectorworks&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai&logoColor=white)
+![geminiAI](https://img.shields.io/badge/geminiAI-API-412991?logo=geminiai&logoColor=white)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🌟 Overview
 
-GeoSpeak is an intelligent, AI-driven multilingual translation platform designed to break down language barriers in real-time. Built with a modern tech stack including **Flask** (backend) and **React + Vite** (frontend), GeoSpeak leverages the power of **OpenAI's LLMs**, **ChromaDB** for semantic understanding, and **SQLite** for data persistence.
+GeoSpeak is an intelligent, AI-driven multilingual translation platform designed to break down language barriers in real-time. Built with a modern tech stack including **Flask** (backend) and **React + Vite** (frontend), GeoSpeak leverages the power of **geminiAI's LLMs**, **ChromaDB** for semantic understanding, and **SQLite** for data persistence.
 
 Beyond basic translation, GeoSpeak offers:
 
@@ -76,7 +76,7 @@ Beyond basic translation, GeoSpeak offers:
 - **Flask** Python web framework
 - **SQLite** for user management and translation history
 - **ChromaDB** for vector storage and semantic search
-- **OpenAI API** for advanced translation capabilities
+- **geminiAI API** for advanced translation capabilities
 
 ### AI & Processing
 - **TensorFlow/Keras** for machine learning components
@@ -124,7 +124,7 @@ npm run dev
 ### 4. Environment Configuration
 Create a `.env` file in the `backend` directory:
 ```env
-OPENAI_API_KEY=your_openai_api_key_here
+geminiAI_API_KEY=your_geminiai_api_key_here
 DATABASE_URL=sqlite:///geospeak.db
 SECRET_KEY=your_secret_key_here
 ```
@@ -162,7 +162,7 @@ geospeak/
 
 1. **Launch the Application**:
    - Start both backend and frontend servers
-   - Open your browser to `http://localhost:3000`
+   - gemini your browser to `http://localhost:3000`
 
 2. **Account Creation**:
    - Register a new account or login with existing credentials
@@ -191,7 +191,7 @@ geospeak/
 ## 📊 Project Deliverables
 
 - ✅ **Complete Source Code** (Flask + React + Database)
-- ✅ **Project Documentation** (SRS, design diagrams, installation guide)[Read Here](https://github.com/Rabia303/GeoSpeak_GenAi-Project/blob/main/GeoSpeak-GenAI%20Smart%20Solutions_SRS.pdf)
+- ✅ **Project Documentation** (SRS, design diagrams, installation guide)[Read Here ](https://github.com/Rabia303/GeoSpeak_GenAi-Project/blob/main/GeoSpeak-GenAI%20Smart%20Solutions_SRS.pdf)
 - ✅ **Demo Video** - [Watch Here](https://github.com/Rabia303/GeoSpeak_GenAi-Project/blob/main/GeoSpeak_Demo.mp4)
 - ✅ **GitHub Repository** - [Explore Code](https://github.com/Rabia303/GeoSpeak_GenAi-Project)
 
